@@ -4,12 +4,11 @@ const CONFIG = {
 
   HEO_HOME_BANNER_ENABLE: true,
 
-  HEO_SITE_CREATE_TIME: '2021-09-21', // 建站日期，用于计算网站运行的第几天
+  HEO_SITE_CREATE_TIME: '2024-09-14', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到markmark.xyz，更多精彩内容见飞书，点击跳转。', url: 'https://markmark.feishu.cn/wiki/space/7407069879414751235' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +17,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: 'Mark一下',
+  HEO_HERO_TITLE_2: '再Mark一下',
+  HEO_HERO_TITLE_3: 'MarkMark.xyz',
+  HEO_HERO_TITLE_4: '点击跳转',
+  HEO_HERO_TITLE_5: '更多精彩内容见飞书',
+  HEO_HERO_TITLE_LINK: 'https://markmark.feishu.cn/wiki/space/7407069879414751235',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
@@ -38,21 +37,17 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🦆 马克鸭',
+    '🤝 知识分享者'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
-  HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
-  HEO_INFO_CARD_TEXT3: '了解更多',
+  HEO_INFO_CARD_URL2: 'https://markmark.feishu.cn/wiki/space/7407069879414751235',
+  HEO_INFO_CARD_ICON2: 'fas fa-link',
+  HEO_INFO_CARD_URL3: 'https://www.markmark.xyz/article/aboutsite',
+  HEO_INFO_CARD_TEXT3: '本站声明',
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
@@ -115,10 +110,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
-  HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
-  HEO_SOCIAL_CARD_URL: 'https://docs.tangly1024.com/article/how-to-question',
+  HEO_SOCIAL_CARD_TITLE_1: '和我聊聊',
+  HEO_SOCIAL_CARD_TITLE_2: '在这里找到我',
+  HEO_SOCIAL_CARD_TITLE_3: '点击查看联系方式',
+  HEO_SOCIAL_CARD_URL: 'https://www.markmark.xyz/article/aboutme',
 
   // *****  以下配置无效，只是预留开发 ****
   // 菜单配置
