@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到markmark.xyz，更多精彩内容见飞书，点击跳转。', url: 'https://markmark.feishu.cn/wiki/space/7407069879414751235' }
+    { title: '更多精彩内容见飞书，点击跳转。', url: 'https://markmark.feishu.cn/wiki/space/7407069879414751235' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -38,7 +38,7 @@ const CONFIG = {
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
     '🦆 马克鸭',
-    '🤝 知识分享者'
+    '🤝 分享者'
   ],
 
   // 个人资料底部按钮
