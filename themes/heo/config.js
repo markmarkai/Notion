@@ -46,7 +46,7 @@ const CONFIG = {
   HEO_INFO_CARD_ICON1: 'fas fa-user',
   HEO_INFO_CARD_URL2: 'https://markmark.feishu.cn/wiki/space/7407069879414751235',
   HEO_INFO_CARD_ICON2: 'fas fa-link',
-  HEO_INFO_CARD_URL3: 'https://www.markmark.xyz/article/aboutsite',
+  HEO_INFO_CARD_URL3: 'https://www.markmark.xyz/aboutsite',
   HEO_INFO_CARD_TEXT3: '本站声明',
 
   // 用户技能图标
